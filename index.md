@@ -1,5 +1,9 @@
+# Samara's first CS193 lab
+-I like how CS193 only meets once a week
+-I love how CS193 lab sessions are not 2 hours long
+-I like how this class has a Piazza - it makes it easy to ask questions :) 
+
 ## Welcome to GitHub Pages
-# Hello - test line
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
