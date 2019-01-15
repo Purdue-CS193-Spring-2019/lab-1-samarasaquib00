@@ -1,7 +1,7 @@
 # Samara's first CS193 lab
--I like how CS193 only meets once a week
--I love how CS193 lab sessions are not 2 hours long
--I like how this class has a Piazza - it makes it easy to ask questions :) 
+- I like how CS193 only meets once a week
+- I love how CS193 lab sessions are not 2 hours long
+- I like how this class has a Piazza - it makes it easy to ask questions :) 
 
 ## Welcome to GitHub Pages
 
